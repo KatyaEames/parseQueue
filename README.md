@@ -1,6 +1,6 @@
 #Introduction
 
-Today we are going to be building a queue app similar to the one we use during class. Instead of a Firebase backend though, we will be using Parse. 
+<!--Today we are going to be building a queue app similar to the one we use during class. Instead of a Firebase backend though, we will be using Parse. 
 
 Sign up for an account at Parse: http://parse.com
 
@@ -59,7 +59,7 @@ Then, create a test:
 <ul>
 	<li>In your MainController create a $scope.test object and give it a value</li>
 	<li>Call the $scope.test object in view to ensure it's pulling the value from the controller.</li>
-</ul>
+</ul> -->
 
 #Step 2 - Creating Questions
 
@@ -68,7 +68,7 @@ We will begin by making it possible to create questions, primarily because this 
 Let's start with our service as it will be where our data begins and ends. 
 
 <ul>
-	<li>Go to your parse service and create a POST method, that takes in a question as a parameter. *Don't hesitate to refer to the chat app we made last week.*</li>
+	<li>Go to your parse service and create a POST method, that takes in a question as a parameter.</li>
 </ul>
 
 ##SIDENOTE
